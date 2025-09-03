@@ -23,7 +23,7 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 Here are some of the projects I've worked on:
 
-- Project Name: [Link to Repository]
+- Filing Navigator: [https://github.com/Alexmaxdout/filingnavigator]
   - Description: A brief overview of the project, its purpose, and technologies used.
   - Highlights: Key achievements or challenges overcome during development.
 
