@@ -43,7 +43,7 @@ Here are some of the projects I've worked on:
   - Highlights: Key achievements or challenges overcome during development. 
 
 ## 📬 Additional Experience
-- LeetCode: [https://github.com/Alexmaxdout/leetCode]
+- LeetCode: [https://github.com/Alexmaxdout/leetCode-solutions]
   - Description: Collection of my LeetCode solutions with explanations, code, and complexity analysis organized by difficulty and topic
   - Highlights: Key achievements or challenges overcome during development.
  
