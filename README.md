@@ -8,7 +8,7 @@ I'm a Computer Science and Artificial Intelligence major with a strong passion f
 - What Drives Me: Using technology not just to innovate, but to empower people and communities
 - Vision: To design intelligent solutions that bridge creativity, ethics, and cutting-edge engineering
 
-This GitHub is where I share my journey — from coding challenges and personal projects to research experiments and open-source contributions.
+This GitHub is where I will share my journey from coding challenges and personal projects to research experiments and open-source contributions.
 
 ## 🔧 Technologies & Tools
 
