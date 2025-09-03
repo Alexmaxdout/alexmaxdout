@@ -10,8 +10,6 @@ I'm a Computer Science and Artificial Intelligence major with a strong passion f
 
 This GitHub is where I will share my journey from coding challenges and personal projects to research experiments and open-source contributions.
 
-
-
 ## 🔧 Technologies & Tools
 
 - Languages: Python, JavaScript, Java, C++
@@ -27,6 +25,12 @@ This GitHub is where I will share my journey from coding challenges and personal
 - Deepening my understanding of Machine Learning and AI.
 - Exploring advanced concepts in Cloud Computing with AWS and Azure.
 - Enhancing my skills in Full Stack Development with MERN stack.
+
+## 📚Organizations and Memberships
+
+- 🔹 Member of [OWASP](https://owasp.org) – promoting secure coding practices and application security  
+[![OWASP Member](https://img.shields.io/badge/OWASP-Member-blue?logo=owasp)](https://owasp.org)
+
 
 ## 💼 Featured Projects
 
@@ -58,8 +62,8 @@ Here are some of the projects I've worked on:
 
 - Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
 - LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
-🔒 Member of [OWASP](https://owasp.org) – promoting secure coding practices  
-📫 Contact me via OWASP email: alexander.maxwell@owasp.org
+- 🔒 Member of [OWASP](https://owasp.org) – promoting secure coding practices
+- 📫 Contact me via OWASP email: alexander.maxwell@owasp.org
 
 - ## 📈 GitHub Stats
 
