@@ -40,7 +40,6 @@ Here are some of the projects I've worked on:
 
 - Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
 - LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
-- Portfolio: [alexmaxdout.dev](https://alexmaxdout.dev)
 
 - ## 📈 GitHub Stats
 
