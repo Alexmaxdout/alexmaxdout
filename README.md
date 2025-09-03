@@ -10,8 +10,7 @@ I'm a Computer Science and Artificial Intelligence major with a strong passion f
 
 This GitHub is where I will share my journey from coding challenges and personal projects to research experiments and open-source contributions.
 
-🔒 Member of [OWASP](https://owasp.org) – promoting secure coding practices  
-📫 Contact me via OWASP email: alexander.maxwell@owasp.org
+
 
 ## 🔧 Technologies & Tools
 
@@ -55,10 +54,12 @@ Here are some of the projects I've worked on:
   - Highlights: Key achievements or challenges overcome during development.
 
 
-## 📬 Resume * Contact
+## 📬 Resume / Contact
 
 - Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
 - LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
+🔒 Member of [OWASP](https://owasp.org) – promoting secure coding practices  
+📫 Contact me via OWASP email: alexander.maxwell@owasp.org
 
 - ## 📈 GitHub Stats
 
