@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 ## 📬 Resume * Contact
 
-- Email: [alexmaxdout@example.com](mailto:alexmaxdout@outlook.com)
+- Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
 - LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
 - Portfolio: [alexmaxdout.dev](https://alexmaxdout.dev)
 
