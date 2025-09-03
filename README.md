@@ -35,6 +35,15 @@ Here are some of the projects I've worked on:
   - Description: A brief overview of the project, its purpose, and technologies used.
   - Highlights: Key achievements or challenges overcome during development. 
 
+## 📬 Additional Experience
+- LeetCode: [https://github.com/Alexmaxdout/leetCode]
+  - Description: A brief overview of the project, its purpose, and technologies used.
+  - Highlights: Key achievements or challenges overcome during development.
+ 
+- Competitive Programming: [https://github.com/Alexmaxdout/competitive-programming]
+  - Description: A brief overview of the project, its purpose, and technologies used.
+  - Highlights: Key achievements or challenges overcome during development.
+
 
 ## 📬 Resume * Contact
 
