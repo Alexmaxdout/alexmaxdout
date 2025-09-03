@@ -28,8 +28,8 @@ This GitHub is where I will share my journey from coding challenges and personal
 
 ## 📚Organizations and Memberships
 
-- 🔹 Member of [OWASP](https://owasp.org) – promoting secure coding practices and application security  
-[![OWASP Member](https://img.shields.io/badge/OWASP-Member-blue?logo=owasp)](https://owasp.org)
+- 🔹 Member of [OWASP](https://owasp.org) – promoting secure coding practices and application security
+- [![OWASP Member](https://img.shields.io/badge/OWASP-Member-blue?logo=owasp)](https://owasp.org)
 
 
 ## 💼 Featured Projects
