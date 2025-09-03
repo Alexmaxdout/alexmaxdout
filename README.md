@@ -37,11 +37,11 @@ Here are some of the projects I've worked on:
 
 ## 📬 Additional Experience
 - LeetCode: [https://github.com/Alexmaxdout/leetCode]
-  - Description: A brief overview of the project, its purpose, and technologies used.
+  - Description: Collection of my LeetCode solutions with explanations, code, and complexity analysis organized by difficulty and topic
   - Highlights: Key achievements or challenges overcome during development.
  
 - Competitive Programming: [https://github.com/Alexmaxdout/competitive-programming]
-  - Description: A brief overview of the project, its purpose, and technologies used.
+  - Description: Solutions and notes from HackerRank and Codeforces challenges, covering algorithms, data structures, and contest problems.
   - Highlights: Key achievements or challenges overcome during development.
 
 
