@@ -1,7 +1,13 @@
-# 👋 Hello everyone, My name is Alex and Welcome to my GitHub profile! 
+# 👋 Welcome! I’m Alex, blending Computer Science and Artificial Intelligence to solve real-world challenges with code. From algorithms to AI, I believe technology should empower people. This GitHub is my space to build toward that vision.
 
 ## Abouut
-I'm a passionate Computer Science student with a keen interest in software development, problem-solving, and continuous learning. Here's a glimpse into my journey and what I bring to the table.
+I'm a Computer Science and Artificial Intelligence major with a strong passion for solving real-world problems through technology. My interests span from building efficient algorithms to exploring advanced AI applications that can make a meaningful impact.
+💻 Focus Areas: Software engineering, machine learning, AI research, and scalable systems
+📚 Academic Background: Computer Science & AI major with hands-on experience in projects and research
+🚀 What Drives Me: Using technology not just to innovate, but to empower people and communities
+🌍 Vision: To design intelligent solutions that bridge creativity, ethics, and cutting-edge engineering
+
+This GitHub is where I share my journey — from coding challenges and personal projects to research experiments and open-source contributions.
 
 ## 🔧 Technologies & Tools
 
