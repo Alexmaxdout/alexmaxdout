@@ -31,6 +31,11 @@ Here are some of the projects I've worked on:
   - Description: A brief overview of the project, its purpose, and technologies used.
   - Highlights: Key achievements or challenges overcome during development.
 
+- AI Assistant: [https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant]
+  - Description: A brief overview of the project, its purpose, and technologies used.
+  - Highlights: Key achievements or challenges overcome during development. 
+
+
 ## 📬 Resume * Contact
 
 - Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
