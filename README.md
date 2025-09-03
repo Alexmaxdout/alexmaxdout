@@ -2,10 +2,11 @@
 
 ## Abouut
 I'm a Computer Science and Artificial Intelligence major with a strong passion for solving real-world problems through technology. My interests span from building efficient algorithms to exploring advanced AI applications that can make a meaningful impact.
-💻 Focus Areas: Software engineering, machine learning, AI research, and scalable systems
-📚 Academic Background: Computer Science & AI major with hands-on experience in projects and research
-🚀 What Drives Me: Using technology not just to innovate, but to empower people and communities
-🌍 Vision: To design intelligent solutions that bridge creativity, ethics, and cutting-edge engineering
+
+- Focus Areas: Software engineering, machine learning, AI research, and scalable systems
+- Academic Background: Computer Science & AI major with hands-on experience in projects and research
+- What Drives Me: Using technology not just to innovate, but to empower people and communities
+- Vision: To design intelligent solutions that bridge creativity, ethics, and cutting-edge engineering
 
 This GitHub is where I share my journey — from coding challenges and personal projects to research experiments and open-source contributions.
 
