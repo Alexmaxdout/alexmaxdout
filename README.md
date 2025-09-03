@@ -27,7 +27,7 @@ Here are some of the projects I've worked on:
   - Description: A brief overview of the project, its purpose, and technologies used.
   - Highlights: Key achievements or challenges overcome during development.
 
-- Project Name: [Link to Repository]
+- Algo Vault: [https://github.com/Alexmaxdout/algo-vault]
   - Description: A brief overview of the project, its purpose, and technologies used.
   - Highlights: Key achievements or challenges overcome during development.
 
