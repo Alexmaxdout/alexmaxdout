@@ -1,6 +1,6 @@
 # 👋 Welcome! I’m Alex, blending Computer Science and Artificial Intelligence to solve real-world challenges with code. From algorithms to AI, I believe technology should empower people. This GitHub is my space to build toward that vision.
 
-## Abuut
+## About
 I'm a Computer Science and Artificial Intelligence major with a strong passion for solving real-world problems through technology. My interests span from building efficient algorithms to exploring advanced AI applications that can make a meaningful impact.
 
 - Focus Areas: Software engineering, machine learning, AI research, and scalable systems
