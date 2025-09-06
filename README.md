@@ -1,7 +1,7 @@
 # 👋 Welcome! I’m Alex,
 
 ## About
-I'm a Computer Science and Artificial Intelligence major with a strong passion for solving real-world problems through technology.  My interests span from building efficient algorithms to exploring advanced AI applications that can make a meaningful impact. I'm striving to use Computer Science and Artificial Intelligence to solve real-world challenges with code. This GitHub is my space to build toward that vision.
+I'm a Computer Science and Artificial Intelligence major passionate about applying technology to solve real-world problems.  Beyond building efficient algorithms and AI-driven applications, I'm deeply interested in addressing the challanges of AI bias and ensuring that intelligent systems are fair, transparent, and trustworthy. As a member of OWASP AI Exchange, I will continue to contribute to advancing best practices and supporting the broader public community in understanding and mitigating AI related risks.  On this Github, I showcase projects where I translate theory into practice.  My current areas of focus are machine learning models, optimization algorithms, and explorations in AI ethics and responsible development.  My goeas is to keep building impactful solutions while contributing to a more secure, equitable, and trustworth AI ecosystem.
 
 - Focus Areas: Software engineering, machine learning, AI research, and scalable systems
 - Academic Background: Computer Science & AI major with hands-on experience in projects and research
