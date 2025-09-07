@@ -120,23 +120,23 @@ Its goal is to promote **fairness, transparency, and accountability** in AI syst
 - Community Impact: Developed in alignment with the **OWASP AI Exchange**, contributing to global efforts toward responsible and safe AI.  
 
 
-🔹 Filing Navigator  
-[GitHub Repo](https://github.com/Alexmaxdout/filingnavigator)
+🔹 Filing Navigator [GitHub Repo](https://github.com/Alexmaxdout/filingnavigator)
 
-- A brief overview of the project, its purpose, and technologies used.
-- **Highlights**: Key achievements or challenges overcome during development.
+📌 Overview
 
-🔹 Algo Vault
-[GitHub Repo](https://github.com/Alexmaxdout/algo-vault)
+🌟 Highlights
 
-- A brief overview of the project, its purpose, and technologies used.
-- **Highlights**: Key achievements or challenges overcome during development.
+🔹 Algo Vault [GitHub Repo](https://github.com/Alexmaxdout/algo-vault)
 
-🔹 AI Assistant 
-[GitHub Repo](https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant)
+📌 Overview
 
-- A brief overview of the project, its purpose, and technologies used.
-- **Highlights**: Key achievements or challenges overcome during development.
+🌟 Highlights
+
+🔹 AI Assistant [GitHub Repo](https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant)
+
+📌 Overview
+
+🌟 Highlights
 
 ---
 
