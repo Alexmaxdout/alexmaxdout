@@ -95,19 +95,37 @@ I'm a Computer Science and Artificial Intelligence major passionate about applyi
 
 ## 💼 Featured Projects
 
-🔹 **Filing Navigator**  
+🔹 Algorithm Visualizer
+[GitHub Repo](https://github.com/Alexmaxdout/algorithm-visualizer)
+
+📌 Overview
+The Algorithm Visualizer is an interactive web app that brings algorithms to life with real-time animations. It helps learners and developers understand sorting, searching, and pathfinding step by step.
+
+🌟 Highlights
+Visualized algorithms: Bubble Sort, Quick Sort, Merge Sort, Binary Search, Dijkstra’s.
+User controls: array size, speed adjustment, step-by-step execution.
+Performance optimized by moving from DOM updates to Canvas/D3 rendering.
+Modular design allows adding new algorithms easily.
+
+🔹 AI Bias Evaluator  
+[GitHub Repo](https://github.com/Alexmaxdout/ai-bias-evaluator)
+
+- A brief overview of the project, its purpose, and technologies used.
+- **Highlights**: Key achievements or challenges overcome during development.
+
+🔹 Filing Navigator  
 [GitHub Repo](https://github.com/Alexmaxdout/filingnavigator)
 
 - A brief overview of the project, its purpose, and technologies used.
 - **Highlights**: Key achievements or challenges overcome during development.
 
-🔹 **Algo Vault**  
+🔹 Algo Vault
 [GitHub Repo](https://github.com/Alexmaxdout/algo-vault)
 
 - A brief overview of the project, its purpose, and technologies used.
 - **Highlights**: Key achievements or challenges overcome during development.
 
-🔹 **AI Assistant**  
+🔹 AI Assistant 
 [GitHub Repo](https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant)
 
 - A brief overview of the project, its purpose, and technologies used.
@@ -117,12 +135,12 @@ I'm a Computer Science and Artificial Intelligence major passionate about applyi
 
 ## 📬 Additional Experience
 
-🔹 **LeetCode Solutions**  
+🔹 LeetCode Solutions
 [GitHub Repo](https://github.com/Alexmaxdout/leetCode-solutions)
 
 - Organized solutions with explanations and complexity analysis.
 
-🔹 **Competitive Programming**  
+🔹 Competitive Programming
 [GitHub Repo](https://github.com/Alexmaxdout/competitive-programming)
 
 - Solutions and notes from HackerRank & Codeforces challenges.
