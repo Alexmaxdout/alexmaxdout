@@ -8,58 +8,123 @@ I'm a Computer Science and Artificial Intelligence major passionate about applyi
 - What Drives Me: Using technology not just to innovate, but to empower people and communities
 - Vision: To design intelligent solutions that bridge creativity, ethics, and cutting-edge engineering
 
-This GitHub is where I will share my journey from coding challenges and personal projects to research experiments and open-source contributions.
+✨ This GitHub is where I share my journey — from coding challenges and personal projects to research experiments and open-source contributions.
 
-## 🔧 Technologies & Tools
-- Languages: Python | Javascript | Java 
-- Frontend: React | Node.js | CSS Modules
-- Backend: Node.js | Express | REST | GraphQL
-- Infrastructure: Terraform | GitHub Actions | Docker | AKS
-- Frameworks: React | Node.js  
-- Tools: Git | Docker | VS Code | Postman
-- Databases: MySQL | MongoDB
+---
+
+## 🎯 Focus Areas
+
+- Software Engineering
+- Machine Learning & AI Research
+- Scalable Systems Design
+- Cloud & Infrastructure
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ☁️ Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexmaxdout&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=alexmaxdout&theme=radical&hide_border=false)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmaxdout&theme=radical&show_icons=true&hide_border=false&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=alexmaxdout&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## 📚 Current Learning
 
-- Deepening my understanding of Machine Learning and AI.
-- Exploring advanced concepts in Cloud Computing with AWS and Azure.
-- Enhancing my skills in Full Stack Development with MERN stack.
+- 🤖 Deepening knowledge in **Machine Learning & AI**
+- ☁️ Exploring **Cloud Computing** (AWS, Azure)
+- 🌐 Advancing in **Full Stack Development (MERN Stack)**
 
-## 📚Organizations and Memberships
+---
 
-- 🔹 Member of [OWASP](https://owasp.org) – promoting secure coding practices and application security
-- [![OWASP Member](https://img.shields.io/badge/OWASP-Member-blue?logo=owasp)](https://owasp.org)
+## 🏛️ Organizations & Memberships
 
+- Member of [OWASP](https://owasp.org) – promoting secure coding practices and application security  
+  [![OWASP Member](https://img.shields.io/badge/OWASP-Member-blue?style=for-the-badge&logo=owasp)](https://owasp.org)
+
+---
 
 ## 💼 Featured Projects
 
-Here are some of the projects I've worked on:
+🔹 **Filing Navigator**  
+[GitHub Repo](https://github.com/Alexmaxdout/filingnavigator)
 
-- Filing Navigator: [https://github.com/Alexmaxdout/filingnavigator]
-  - Description: A brief overview of the project, its purpose, and technologies used.
-  - Highlights: Key achievements or challenges overcome during development.
+- A brief overview of the project, its purpose, and technologies used.
+- **Highlights**: Key achievements or challenges overcome during development.
 
-- Algo Vault: [https://github.com/Alexmaxdout/algo-vault]
-  - Description: A brief overview of the project, its purpose, and technologies used.
-  - Highlights: Key achievements or challenges overcome during development.
+🔹 **Algo Vault**  
+[GitHub Repo](https://github.com/Alexmaxdout/algo-vault)
 
-- AI Assistant: [https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant]
-  - Description: A brief overview of the project, its purpose, and technologies used.
-  - Highlights: Key achievements or challenges overcome during development. 
+- A brief overview of the project, its purpose, and technologies used.
+- **Highlights**: Key achievements or challenges overcome during development.
+
+🔹 **AI Assistant**  
+[GitHub Repo](https://github.com/Alexmaxdout/real-time-multimodal-ai-assistant)
+
+- A brief overview of the project, its purpose, and technologies used.
+- **Highlights**: Key achievements or challenges overcome during development.
+
+---
 
 ## 📬 Additional Experience
-- LeetCode: [https://github.com/Alexmaxdout/leetCode-solutions]
-  - Description: Collection of my LeetCode solutions with explanations, code, and complexity analysis organized by difficulty and topic
-  - Highlights: Key achievements or challenges overcome during development.
- 
-- Competitive Programming: [https://github.com/Alexmaxdout/competitive-programming]
-  - Description: Solutions and notes from HackerRank and Codeforces challenges, covering algorithms, data structures, and contest problems.
-  - Highlights: Key achievements or challenges overcome during development.
 
+🔹 **LeetCode Solutions**  
+[GitHub Repo](https://github.com/Alexmaxdout/leetCode-solutions)
 
-## 📬 Resume / Contact
+- Organized solutions with explanations and complexity analysis.
 
-- Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
+🔹 **Competitive Programming**  
+[GitHub Repo](https://github.com/Alexmaxdout/competitive-programming)
+
+- Solutions and notes from HackerRank & Codeforces challenges.
+
+---
+
+## 📫 Contact & Resume
+
+- 📧 Email: [alexmaxdout@outlook.com](mailto:alexmaxdout@outlook.com)
+- 🔗 LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
+- 🔒 OWASP Email: alexander.maxwell@owasp.org
+
+---
+
+💡 _Feel free to explore my repositories and connect if you'd like to collaborate or discuss exciting opportunities!_
 - LinkedIn: [linkedin.com/in/alexmaxdout](https://www.linkedin.com/in/alexmaxdout)
 - 🔒 Member of [OWASP](https://owasp.org) – promoting secure coding practices
 - 📫 Contact me via OWASP email: alexander.maxwell@owasp.org
