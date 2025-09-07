@@ -102,16 +102,27 @@ I'm a Computer Science and Artificial Intelligence major passionate about applyi
 The Algorithm Visualizer is an interactive web app that brings algorithms to life with real-time animations. It helps learners and developers understand sorting, searching, and pathfinding step by step.
 
 🌟 Highlights
-Visualized algorithms: Bubble Sort, Quick Sort, Merge Sort, Binary Search, Dijkstra’s.
-User controls: array size, speed adjustment, step-by-step execution.
-Performance optimized by moving from DOM updates to Canvas/D3 rendering.
-Modular design allows adding new algorithms easily.
+- Visualized algorithms: Bubble Sort, Quick Sort, Merge Sort, Binary Search, Dijkstra’s.
+- User controls: array size, speed adjustment, step-by-step execution.
+- Performance optimized by moving from DOM updates to Canvas/D3 rendering.
+- Modular design allows adding new algorithms easily.
 
 🔹 AI Bias Evaluator  
 [GitHub Repo](https://github.com/Alexmaxdout/ai-bias-evaluator)
 
-- A brief overview of the project, its purpose, and technologies used.
-- **Highlights**: Key achievements or challenges overcome during development.
+The AI Bias Evaluator is a tool designed to identify, measure, and mitigate potential biases in machine learning models and datasets.  
+Its goal is to promote **fairness, transparency, and accountability** in AI systems by providing insights into bias patterns across demographic groups.
+
+🌟 Highlights
+
+- **Bias Detection Across Groups** - Implemented fairness metrics such as *disparate impact*, *equalized odds*, and *demographic parity* to analyze performance across protected attributes.  
+
+- Interactive Reporting: Built visual dashboards to communicate bias findings for both technical and non-technical audiences.  
+- Mitigation Strategies: Integrated methods like *reweighing*, *adversarial debiasing*, and *threshold adjustments* to reduce unfair outcomes.  
+- Scalable Architecture: Designed a modular framework supporting multiple model types (classification & regression) and diverse datasets.  
+- Challenge Overcome: Balanced the trade-off between **model accuracy and fairness** through iterative testing and metric prioritization.  
+- Community Impact: Developed in alignment with the **OWASP AI Exchange**, contributing to global efforts toward responsible and safe AI.  
+
 
 🔹 Filing Navigator  
 [GitHub Repo](https://github.com/Alexmaxdout/filingnavigator)
