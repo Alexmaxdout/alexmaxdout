@@ -95,6 +95,7 @@ I'm a Computer Science and Artificial Intelligence major passionate about applyi
 
 ## 💼 Featured Projects
 🔹 Algorithm Visualizer [GitHub Repo](https://github.com/Alexmaxdout/algorithm-visualizer)
+
 📌 Overview
 The Algorithm Visualizer is an interactive web app that brings algorithms to life with real-time animations. It helps learners and developers understand sorting, searching, and pathfinding step by step.
 
@@ -105,6 +106,7 @@ The Algorithm Visualizer is an interactive web app that brings algorithms to lif
 - Modular design allows adding new algorithms easily.
 
 🔹 AI Bias Evaluator [GitHub Repo](https://github.com/Alexmaxdout/ai-bias-evaluator)
+
 📌 Overview
 The AI Bias Evaluator is a tool designed to identify, measure, and mitigate potential biases in machine learning models and datasets.  
 Its goal is to promote **fairness, transparency, and accountability** in AI systems by providing insights into bias patterns across demographic groups.
