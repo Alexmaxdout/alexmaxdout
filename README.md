@@ -114,9 +114,7 @@ The AI Bias Evaluator is a tool designed to identify, measure, and mitigate pote
 Its goal is to promote **fairness, transparency, and accountability** in AI systems by providing insights into bias patterns across demographic groups.
 
 🌟 Highlights
-
-- **Bias Detection Across Groups** - Implemented fairness metrics such as *disparate impact*, *equalized odds*, and *demographic parity* to analyze performance across protected attributes.  
-
+- Bias Detection Across Groups: Implemented fairness metrics such as *disparate impact*, *equalized odds*, and *demographic parity* to analyze performance across protected attributes.  
 - Interactive Reporting: Built visual dashboards to communicate bias findings for both technical and non-technical audiences.  
 - Mitigation Strategies: Integrated methods like *reweighing*, *adversarial debiasing*, and *threshold adjustments* to reduce unfair outcomes.  
 - Scalable Architecture: Designed a modular framework supporting multiple model types (classification & regression) and diverse datasets.  
